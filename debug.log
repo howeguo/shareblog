@@ -1,0 +1,6 @@
+{"name":"hexo","hostname":"guo.local","pid":58420,"level":20,"msg":"Hexo version: \u001b[35m3.1.1\u001b[39m","time":"2015-07-30T02:51:12.743Z","v":0}
+{"name":"hexo","hostname":"guo.local","pid":58420,"level":20,"msg":"Working directory: \u001b[35m~/Documents/blog/\u001b[39m","time":"2015-07-30T02:51:12.746Z","v":0}
+{"name":"hexo","hostname":"guo.local","pid":58420,"level":20,"msg":"Config loaded: \u001b[35m~/Documents/blog/_config.yml\u001b[39m","time":"2015-07-30T02:51:12.855Z","v":0}
+{"name":"hexo","hostname":"guo.local","pid":58420,"level":20,"msg":"Script loaded: \u001b[35mthemes/pacman/scripts/fancybox.js\u001b[39m","time":"2015-07-30T02:51:12.860Z","v":0}
+{"name":"hexo","hostname":"guo.local","pid":58420,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2015-07-30T02:51:12.867Z","v":0}
+{"name":"hexo","hostname":"guo.local","pid":58420,"level":20,"msg":"Database saved","time":"2015-07-30T02:51:12.871Z","v":0}
