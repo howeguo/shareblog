@@ -69,5 +69,6 @@ theme: pacman
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/howeguo/shareblog.git
+  #repository: https://github.com/howeguo/shareblog.git
+  repository: git@github.com:howeguo/shareblog.git
   branch: master
