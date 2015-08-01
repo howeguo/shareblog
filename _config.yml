@@ -70,4 +70,4 @@ theme: pacman
 deploy:
   type: git
   repository: https://github.com/howeguo/shareblog.git
-  branch:  gh-pages
+  branch: master
